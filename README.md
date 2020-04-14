@@ -36,6 +36,17 @@ This table is complement of the survey below.
 | Year        | Title           | Type       |   Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|---------------|---------|
 | 2018 | **Adversarial Personalized Ranking for Recommendation**  | Attack/Defense  |  BPR-MF | SIGIR | [Link](https://doi.org/10.1145/3209978.3209981) | [Code](https://github.com/hexiangnan/adversarial_personalized_ranking) |
+| 2019 | **Adversarial Collaborative Neural Network for Robust Recommendation** | Attack/Defense | CDAE | SIGIR | [Link](https://dl.acm.org/citation.cfm?id=3331321) | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
+| 201X | **Name** | | | | | | 
 | 201X | **Name** | | | | | | 
 
 
