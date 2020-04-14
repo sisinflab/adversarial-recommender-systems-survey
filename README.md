@@ -33,9 +33,9 @@ This table is complement of the survey below.
 ## Papers
 
 ### ADVERSARIAL MACHINE LEARNING FOR SECURITY OF RS
-| Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code      |
-|-------|--------|--------|--------|-----------|------------|---------------|---------|
-| 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
+| Year        | Title           | Type       |   Target Model     | Venue    | Link        |  Code      |
+|-------|--------|--------|--------|-----------|---------------|---------|
+| 2018 | **Adversarial Personalized Ranking for Recommendation**  | Attack/Defense  |  BPR-MF | SIGIR | [Link](https://doi.org/10.1145/3209978.3209981) | |
 
 
 
