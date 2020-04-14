@@ -15,8 +15,7 @@ This table is complement of the survey below.
 }
 ```
 
-Tutorial presented at WSDM@2020
-[***Adversarial Machine Learning in Recommender Systems (AML-RecSys)*** ](https://doi.org/10.1145/3336191.3371877)
+[***Adversarial Machine Learning in Recommender Systems (AML-RecSys)***](https://doi.org/10.1145/3336191.3371877) Tutorial presented at WSDM@2020 [slides](https://github.com/sisinflab/amlrecsys-tutorial/blob/master/Tutorial-AML-RecSys-WSDM2020.pdf)
 
 ```
 @inproceedings{DBLP:conf/wsdm/DeldjooNM20,
@@ -27,10 +26,8 @@ Tutorial presented at WSDM@2020
   booktitle = {{WSDM} '20: The Thirteenth {ACM} International Conference on Web Search
                and Data Mining, Houston, TX, USA, February 3-7, 2020},
   year      = {2020},
-  crossref  = {DBLP:conf/wsdm/2020},
-  url       = {https://doi.org/10.1145/3336191.3371877},
-  doi       = {10.1145/3336191.3371877},
-}
+  url       = {https://doi.org/10.1145/3336191.3371877}
+  }
 ```
 
 ## Papers
