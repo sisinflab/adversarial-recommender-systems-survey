@@ -15,12 +15,31 @@ This table is complement of the survey below.
 }
 ```
 
+Tutorial presented at WSDM@2020
+[***Adversarial Machine Learning in Recommender Systems (AML-RecSys)*** ](https://doi.org/10.1145/3336191.3371877)
+
+```
+@inproceedings{DBLP:conf/wsdm/DeldjooNM20,
+  author    = {Yashar Deldjoo and
+               Tommaso Di Noia and
+               Felice Antonio Merra},
+  title     = {Adversarial Machine Learning in Recommender Systems (AML-RecSys)},
+  booktitle = {{WSDM} '20: The Thirteenth {ACM} International Conference on Web Search
+               and Data Mining, Houston, TX, USA, February 3-7, 2020},
+  year      = {2020},
+  crossref  = {DBLP:conf/wsdm/2020},
+  url       = {https://doi.org/10.1145/3336191.3371877},
+  doi       = {10.1145/3336191.3371877},
+}
+```
+
 ## Papers
 
 ### ADVERSARIAL MACHINE LEARNING FOR SECURITY OF RS
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|------------|---------------|---------|
 | 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
+
 
 
 ### ADVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
