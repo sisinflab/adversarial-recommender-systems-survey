@@ -23,6 +23,6 @@ This table is complement of the survey below.
 | 2020 | **Network disruption: maximizing disagreement and polarization in social networks**  | Attack  |  Manipulating Opinion  | Graph Model, Social Network | Arxiv | [Link](https://arxiv.org/abs/2003.08377) | |
 
 
-### DVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
+### ADVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
 | Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code |
 |-------|--------|--------|--------|-----------|------------|---------------|-------|
