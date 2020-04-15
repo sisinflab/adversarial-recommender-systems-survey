@@ -6,7 +6,6 @@ The table is complement of the survey below.
 
 [***Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions*** ](https://arxiv.org) 
 
-
 ```
 @article{sun2018adversarial,
   title={Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions},
@@ -100,4 +99,9 @@ The table is complement of the survey below.
 |2017|**Visually-Aware Fashion Recommendation and Design with Generative Image Models**| Fashion | ICDM | [Link](https://doi.org/10.1007/978-3-030-11015-4_7)|[Code](https://github.com/kang205/DVBPR)|
 |2017|**IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**| Collaborative | SIGIR | [Link](https://doi.org/10.1145/3077136.3080786)| [Code](https://github.com/hzhao/irgan)|
 
+## Authors
 
+This page is managed and maintained by:
+* Felice Antonio Merra <felice.merra@poliba.it>
+* Yashar Deldjoo <yashar.deldjoo@poliba.it>
+* Tommaso Di Noia <tommaso.dinoia@poliba.it>
