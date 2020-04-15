@@ -53,7 +53,7 @@ This page will be periodically updated to include recent works. Please contact u
 
 
 ### ADVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
-| Year        | Title           |   Target Task | Venue    | Link        |  Code |
+| Year        | Title           |   Rec. Model | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
 |2020|**LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation**| Hybrid | WSDM | [Link](https://doi.org/10.1145/3336191.3371805)||
 |2019|**Collaborative Adversarial Autoencoders: An Effective Collaborative Filtering Model Under the GAN Framework**| Collaborative | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2905876)||
@@ -64,7 +64,7 @@ This page will be periodically updated to include recent works. Please contact u
 |2019|**VAEGAN: A Collaborative Filtering Framework based on Adversarial Variational Autoencoders**| Collaborative |IJCAI | [Link](https://doi.org/10.24963/ijcai.2019/584)||
 |2019|**APL: Adversarial Pairwise Learning for Recommender Systems**| Collaborative |Expert Syst. Appl. | [Link](https://www.sciencedirect.com/science/article/pii/S0957417418306742)|[Code](https://github.com/ZhongchuanSun/APL.)|
 |2019|**RsyGAN: Generative Adversarial Network for Recommender Systems**| Collaborative | IJCNN | [Link](https://doi.org/10.1109/IJCNN.2019.8851727)||
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|2019|**Adversarial Distillation (Transfer) for Efficient Recommendation with External Knowledge.**| Hybrid |TIST | [Link](https://doi.org/10.1145/3281659)| |
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
