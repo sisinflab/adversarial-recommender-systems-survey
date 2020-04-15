@@ -44,6 +44,7 @@ The table is complement of the survey below.
 | 2019 | **Adversarial tensor factorization for context-aware recommendation** | Attack/Defense | FM | RecSys | [Link](https://dl.acm.org/doi/10.1145/3298689.3346987) |  | 
 | 2019 | **Adversarial attacks on an oblivious recommender** | GAN Attacks | Linear | RecSys | [Link](https://doi.org/10.1145/3298689.3347031) | | 
 | 2019 | **Adversarial Sampling and Training for Semi-Supervised Information Retrieval** | Attack/Defense | MF | WWW |[Link](https://doi.org/10.1145/3308558.3313416) |  | 
+| 2019 | **Domain adaptation in display advertising: an application for partner cold-start** | Defense | Adv. Reg. Deep Rec. | RecSys | [Link](https://dl.acm.org/doi/10.1145/3298689.3347004) | | 
 | 2019 | **Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation** | Attack//Defense | MDR | SIGIR | [Paper](https://doi.org/10.1145/3331184.3331234) | [Code](https://github.com/thanhdtran/MASR)| 
 | 2020 | **Adversarial Training-Based Mean Bayesian Personalized Ranking for Recommender System** | Attack/Defense| BPR-MF | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2963316) | | 
 | 2020 | **Adversarial Learning to Compare: Self-Attentive Prospective Customer Recommendation in Location based Social Networks** | Attack/Defense | LBSN  | WSDM | [Link](https://dl.acm.org/doi/pdf/10.1145/3336191.3371841)| | 
@@ -80,8 +81,8 @@ The table is complement of the survey below.
 |2019|**C+GAN: Complementary Fashion Item Recommendation**| Fashion | KDD | [Link](https://arxiv.org/pdf/1906.05596)||
 |2019|**Rating Augmentation with Generative Adversarial Networks towards Accurate Collaborative Filtering**| Collaborative | WWW | [Link](https://doi.org/10.1145/3308558.3313413)||
 |2019|**Privacy and Fairness in Recommender Systems via Adversarial Training of User Representations**| Privacy |ICPRAM | [Link](https://doi.org/10.5220/0007361204760482)||
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|2018|**CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks**| Collaborative | CIKM | [Link](https://doi.org/10.1145/3269206.3271743)|[Code](https://github.com/Coder-Yu/RecQ)|
+|2018|**Adversarial Training of Deep Autoencoders Towards Recommendation Tasks**| Collaborative | IC-NIDC | [Link](https://doi.org/10.1109/ICNIDC.2018.8525831)||
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
