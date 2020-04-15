@@ -70,9 +70,9 @@ This page will be periodically updated to include recent works. Please contact u
 |2019|**Generating Reliable Friends via Adversarial Training to Improve Social Recommendation.**| Social | ICDM | [Link](https://doi.org/10.1109/ICDM.2019.00087)||
 |2019|**Utilizing Generative Adversarial Networks for Recommendation based on Ratings and Reviews**| Collaborative | IJCNN | [Link](https://doi.org/10.1109/IJCNN.2019.8851822)||
 |2019|**A Minimax Game for Generative and Discriminative Sample Models for Recommendation**| Hybrid | PAKDD | [Link](https://link.springer.com/chapter/10.1007/978-3-030-16145-3_33)||
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|2019|**Leveraging Long and Short-Term Information in Content-Aware Movie Recommendation via Adversarial Training**| Time-aware | IEEE T CYBERNETICS | [Link](https://ieeexplore.ieee.org/document/8643032)||
+|2019|**Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**| CTR | ICML | [Link](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf)|[Code](https://github.com/xinshi-chen/GenerativeAdversarialUserModel)|
+|2019|**Adversarial Point-of-Interest Recommendation.**| POI | WWW | [Link](https://dl.acm.org/doi/10.1145/3308558.3313609)|[Code](https://github.com/APOIR2018/APOIR)|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
