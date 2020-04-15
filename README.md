@@ -67,6 +67,20 @@ This page will be periodically updated to include recent works. Please contact u
 |2019|**Adversarial Training for Review-Based Recommendations**|  | SIGIR | [Link](https://doi.org/10.1145/3331184.3331313)||
 |2019|**Enhancing Collaborative Filtering with Generative Augmentation**| Hybrid | KDD | [Link](https://dl.acm.org/doi/10.1145/3292500.3330873)||
 |2019|**APL: Adversarial Pairwise Learning for Recommender Systems**| Collaborative |Expert Syst. Appl. | [Link](https://www.sciencedirect.com/science/article/pii/S0957417418306742)|[Code](https://github.com/ZhongchuanSun/APL.)|
+|2019|**Generating Reliable Friends via Adversarial Training to Improve Social Recommendation.**| Social | ICDM | [Link](https://doi.org/10.1109/ICDM.2019.00087)||
+|2019|**Utilizing Generative Adversarial Networks for Recommendation based on Ratings and Reviews**| Collaborative | IJCNN | [Link](https://doi.org/10.1109/IJCNN.2019.8851822)||
+|2019|**A Minimax Game for Generative and Discriminative Sample Models for Recommendation**| Hybrid | PAKDD | [Link](https://link.springer.com/chapter/10.1007/978-3-030-16145-3_33)||
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
