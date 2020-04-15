@@ -53,15 +53,15 @@ This table is complement of the survey below.
 ### ADVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
 | Year        | Title           |   Target Task | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
-|2020|**LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation**| Hybryd | WSDM | [Link](https://doi.org/10.1145/3336191.3371805)||
+|2020|**LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation**| Hybrid | WSDM | [Link](https://doi.org/10.1145/3336191.3371805)||
 |2019|**Collaborative Adversarial Autoencoders: An Effective Collaborative Filtering Model Under the GAN Framework**| Collaborative | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2905876)||
 |2019|**Collaborative Generative Adversarial Network for Recommendation Systems**| Collaborative |ICDE | [Link](https://doi.org/10.1109/ICDEW.2019.00-16)||
 |2019|**Convolutional Adversarial Latent Factor Model for Recommender System**| Collaborative | AAAI | [Link](https://aaai.org/ocs/index.php/FLAIRS/FLAIRS19/paper/view/18200)||
-|2019|**PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation**| Collaborative | IJCAI | [Link](https://dl.acm.org/citation.cfm?id=3367471.3367579)|[Code]()|
+|2019|**PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation**| Collaborative | IJCAI | [Link](https://dl.acm.org/citation.cfm?id=3367471.3367579)||
 |2019|**LambdaGAN: Generative Adversarial Nets for Recommendation Task with Lambda Strategy**| Collaborative |IJCNN | [Link](https://ieeexplore.ieee.org/document/8851869)||
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|2019|**VAEGAN: A Collaborative Filtering Framework based on Adversarial Variational Autoencoders**| Collaborative |IJCAI | [Link](https://doi.org/10.24963/ijcai.2019/584)||
+|2019|**APL: Adversarial Pairwise Learning for Recommender Systems**| Collaborative |Expert Syst. Appl. | [Link](https://www.sciencedirect.com/science/article/pii/S0957417418306742)|[Code](https://github.com/ZhongchuanSun/APL.)|
+|2019|**RsyGAN: Generative Adversarial Network for Recommender Systems**| Collaborative | IJCNN | [Link](https://doi.org/10.1109/IJCNN.2019.8851727)||
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
