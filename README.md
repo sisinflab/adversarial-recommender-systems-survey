@@ -74,4 +74,3 @@ This page will be periodically updated to include recent works. Please contact u
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
-
