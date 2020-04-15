@@ -47,8 +47,29 @@ This table is complement of the survey below.
 | 2020 | **Adversarial Training-Based Mean Bayesian Personalized Ranking for Recommender System** | Attack/Defense| BPR-MF | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2963316) | | 
 | 2020 | **Adversarial Learning to Compare: Self-Attentive Prospective Customer Recommendation in Location based Social Networks** | Attack/Defense | LBSN  | WSDM | [Link](https://dl.acm.org/doi/pdf/10.1145/3336191.3371841)| | 
 | 2020 | **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning** | GAN Defense | Attribute-Protection | WSDM | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371832) | | 
+| 2020 | **Adversarial Machine Learning in Recommender Systems (AML-RecSys)** | Tutorial |  | WSDM | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371877) | | 
 
 
 ### ADVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
-| Year        | Title           | Type       |  Target Task | Target Model     | Venue    | Link        |  Code |
-|-------|--------|--------|--------|-----------|------------|---------------|-------|
+| Year        | Title           |   Target Task | Venue    | Link        |  Code |
+|-------|--------|--------|-----------|---------------|-------|
+|2020|**LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation**| Hybryd | WSDM | [Link](https://doi.org/10.1145/3336191.3371805)||
+|2019|**Collaborative Adversarial Autoencoders: An Effective Collaborative Filtering Model Under the GAN Framework**| Collaborative | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2905876)||
+|2019|**Collaborative Generative Adversarial Network for Recommendation Systems**| Collaborative |ICDE | [Link](https://doi.org/10.1109/ICDEW.2019.00-16)||
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+
