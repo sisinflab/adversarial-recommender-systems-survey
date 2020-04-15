@@ -4,7 +4,9 @@ A table of adversarial learning publications in recommender systems.
 
 This table is complement of the survey below.
 
-[**Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions** ](https://arxiv.org) **(Updated in April 2020. 15 AML-security papers and 45 GAN-based recommender papers).**
+[***Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions*** ](https://arxiv.org) 
+
+This page will be periodically updated to include recent works. Please contact us if your work is not in the list and we will add you.
 
 ```
 @article{sun2018adversarial,
