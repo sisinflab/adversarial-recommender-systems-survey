@@ -62,11 +62,11 @@ This page will be periodically updated to include recent works. Please contact u
 |2019|**PD-GAN: Adversarial Learning for Personalized Diversity-Promoting Recommendation**| Collaborative | IJCAI | [Link](https://dl.acm.org/citation.cfm?id=3367471.3367579)||
 |2019|**LambdaGAN: Generative Adversarial Nets for Recommendation Task with Lambda Strategy**| Collaborative |IJCNN | [Link](https://ieeexplore.ieee.org/document/8851869)||
 |2019|**VAEGAN: A Collaborative Filtering Framework based on Adversarial Variational Autoencoders**| Collaborative |IJCAI | [Link](https://doi.org/10.24963/ijcai.2019/584)||
-|2019|**APL: Adversarial Pairwise Learning for Recommender Systems**| Collaborative |Expert Syst. Appl. | [Link](https://www.sciencedirect.com/science/article/pii/S0957417418306742)|[Code](https://github.com/ZhongchuanSun/APL.)|
 |2019|**RsyGAN: Generative Adversarial Network for Recommender Systems**| Collaborative | IJCNN | [Link](https://doi.org/10.1109/IJCNN.2019.8851727)||
-|2019|**Adversarial Distillation (Transfer) for Efficient Recommendation with External Knowledge.**| Hybrid |TIST | [Link](https://doi.org/10.1145/3281659)| |
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|2019|**Adversarial Distillation (Transfer) for Efficient Recommendation with External Knowledge**| Hybrid |TIST | [Link](https://doi.org/10.1145/3281659)| |
+|2019|**Adversarial Training for Review-Based Recommendations**|  | SIGIR | [Link](https://doi.org/10.1145/3331184.3331313)||
+|2019|**Enhancing Collaborative Filtering with Generative Augmentation**| Hybrid | KDD | [Link](https://dl.acm.org/doi/10.1145/3292500.3330873)||
+|2019|**APL: Adversarial Pairwise Learning for Recommender Systems**| Collaborative |Expert Syst. Appl. | [Link](https://www.sciencedirect.com/science/article/pii/S0957417418306742)|[Code](https://github.com/ZhongchuanSun/APL.)|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
