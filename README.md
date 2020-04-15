@@ -87,12 +87,17 @@ The table is complement of the survey below.
 |2018|**GraphGAN: Graph Representation Learning With Generative Adversarial Nets**| Collaborative | AAAI | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611)|[Code](https://github.com/hwwang55/GraphGAN)|
 |2018|**A Novel Personalized Citation Recommendation Approach Based on GAN**| Collaborative | ISMIS | [Link](https://doi.org/10.1007/978-3-030-01851-1_26)||
 |2018|**Leveraging Reconstructive Profiles of Users and Items for Tag-Aware Recommendation**| Hybrid | ICDM | [Link](https://doi.org/10.1109/ICDMW.2018.00184)||
-|2018|**Title**| task |venue | [Link]()|[Code]()|
-|2018|**Title**| task |venue | [Link]()|[Code]()|
-|2018|**Title**| task |venue | [Link]()|[Code]()|
-|2018|**Title**| task |venue | [Link]()|[Code]()|
-|2018|**Title**| task |venue | [Link]()|[Code]()|
-|2018|**Title**| task |venue | [Link]()|[Code]()|
-|2018|**Title**| task |venue | [Link]()|[Code]()|
-|2018|**Title**| task |venue | [Link]()|[Code]()|
+|2018|**Rating Prediction in Review-Based Recommendations via Adversarial Auto-Encoder.**| Hybrid |WI | [Link](https://doi.org/10.1109/WI.2018.00-96)||
+|2018|**PLASTIC: Prioritize Long and Short-term Information in Top-n Recommendation using Adversarial Training.**| Sequence-aware |IJCAI  | [Link](https://doi.org/10.24963/ijcai.2018/511)||
+|2018|**Using Adversarial Autoencoders for Multi-Modal Automatic Playlist Continuation**| Sequence-aware | RecSys | [Link](https://doi.org/10.1145/3267471.3267476)|[Code](https://github.com/lgalke/aae-recommender)|
+|2018|**Multi-Modal Adversarial Autoencoders for Recommendations of Citations and Subject Labels.**| Sequence-aware |UMAP | [Link](https://doi.org/10.1145/3209219.3209236)|[Code](https://github.com/lgalke/aae-recommender)|
+|2018|**Neural Memory Streaming Recommender Networks with Adversarial Training.**| Sequence-aware | KDD | [Link](https://doi.org/10.1145/3219819.3220004)||
+|2018|**RecGAN: recurrent generative adversarial networks for recommendation systems**| Sequence-aware | RecSys | [Link](https://doi.org/10.1145/3240323.3240383)||
+|2018|**Compatibility Family Learning for Item Recommendation and Generation**| Fashion | AAAI | [Link](https://doi.org/10.1109/icdh.2018.00040)|[Code]()|
+|2018|**CRAFT: Complementary Recommendation by Adversarial Feature Transform**| Fashion |ECCV | [Link](https://doi.org/10.1007/978-3-030-11015-4_7)||
+|2018|**An Adversarial Approach to Improve Long-Tail Performance in Neural Collaborative Filtering**| Collaborative | CIKM | [Link](https://doi.org/10.1145/3269206.3269264)||
+|2017|**Augmented variational autoencoders for collaborative filtering with auxiliary information**| Collaborative | CIKM | [Link](https://doi.org/10.1145/3132847.3132972)||
+|2017|**Visually-Aware Fashion Recommendation and Design with Generative Image Models**| Fashion | ICDM | [Link](https://doi.org/10.1007/978-3-030-11015-4_7)|[Code](https://github.com/kang205/DVBPR)|
+|2017|**IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**| Collaborative | SIGIR | [Link](https://doi.org/10.1145/3077136.3080786)| [Code](https://github.com/hzhao/irgan)|
+
 
