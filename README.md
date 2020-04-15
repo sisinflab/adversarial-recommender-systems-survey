@@ -6,7 +6,7 @@ This table is complement of the survey below.
 
 [***Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions*** ](https://arxiv.org) 
 
-This page will be periodically updated to include recent works. Please contact us if your work is not in the list and we will add you.
+This page will be ****periodically**** updated to include recent works. Please contact us if your work is not in the list and we will add you.
 
 ```
 @article{sun2018adversarial,
