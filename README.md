@@ -73,12 +73,12 @@ This page will be periodically updated to include recent works. Please contact u
 |2019|**Leveraging Long and Short-Term Information in Content-Aware Movie Recommendation via Adversarial Training**| Time-aware | IEEE T CYBERNETICS | [Link](https://ieeexplore.ieee.org/document/8643032)||
 |2019|**Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**| CTR | ICML | [Link](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf)|[Code](https://github.com/xinshi-chen/GenerativeAdversarialUserModel)|
 |2019|**Adversarial Point-of-Interest Recommendation.**| POI | WWW | [Link](https://dl.acm.org/doi/10.1145/3308558.3313609)|[Code](https://github.com/APOIR2018/APOIR)|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|2019|**Deep Adversarial Social Recommendation**| Social | IJCAI | [Link](https://doi.org/10.24963/ijcai.2019/187)||
+|2019|**Click Feedback-Aware Query Recommendation Using Adversarial Examples**| Query | WWW | [Link](https://doi.org/10.1145/3308558.3313412)||
+|2019|**Scenery-Based Fashion Recommendation with Cross-Domain Geneartive Adverserial Networks**| Fashion | BIGCOMP | [Link](https://ieeexplore.ieee.org/document/8679117)||
+|2019|**RecSys-DAN: Discriminative Adversarial Networks for Cross-Domain Recommender Systems**| Fashion | IEEE-TNNLS | [Link](https://ieeexplore.ieee.org/iel7/5962385/6104215/08698453.pdf)||
+|2019|**CnGAN: Generative Adversarial Networks for Cross-network user preference generation for non-overlapped users**| Cross Domain | WWW | [Link](https://doi.org/10.1145/3308558.3313733)|[Code](https://dinry.github.io/CnGAN/)|
+|2019|**C+GAN: Complementary Fashion Item Recommendation**| Fashion | KDD | [Link](https://arxiv.org/pdf/1906.05596)||
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
