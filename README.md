@@ -78,6 +78,20 @@ The table is complement of the survey below.
 |2019|**CnGAN: Generative Adversarial Networks for Cross-network user preference generation for non-overlapped users**| Cross Domain | WWW | [Link](https://doi.org/10.1145/3308558.3313733)|[Code](https://dinry.github.io/CnGAN/)|
 |2019|**C+GAN: Complementary Fashion Item Recommendation**| Fashion | KDD | [Link](https://arxiv.org/pdf/1906.05596)||
 |2019|**Rating Augmentation with Generative Adversarial Networks towards Accurate Collaborative Filtering**| Collaborative | WWW | [Link](https://doi.org/10.1145/3308558.3313413)||
+|2019|**Privacy and Fairness in Recommender Systems via Adversarial Training of User Representations**| Privacy |ICPRAM | [Link](https://doi.org/10.5220/0007361204760482)||
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
