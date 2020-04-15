@@ -77,7 +77,7 @@ The table is complement of the survey below.
 |2019|**RecSys-DAN: Discriminative Adversarial Networks for Cross-Domain Recommender Systems**| Fashion | IEEE-TNNLS | [Link](https://ieeexplore.ieee.org/iel7/5962385/6104215/08698453.pdf)||
 |2019|**CnGAN: Generative Adversarial Networks for Cross-network user preference generation for non-overlapped users**| Cross Domain | WWW | [Link](https://doi.org/10.1145/3308558.3313733)|[Code](https://dinry.github.io/CnGAN/)|
 |2019|**C+GAN: Complementary Fashion Item Recommendation**| Fashion | KDD | [Link](https://arxiv.org/pdf/1906.05596)||
-|20XX|**Title**| task |venue | [Link]()|[Code]()|
+|2019|**Rating Augmentation with Generative Adversarial Networks towards Accurate Collaborative Filtering**| Collaborative | WWW | [Link](https://doi.org/10.1145/3308558.3313413)||
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
 |20XX|**Title**| task |venue | [Link]()|[Code]()|
