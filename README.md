@@ -83,7 +83,7 @@ The table is complement of the survey below.
 |2019|**Privacy and Fairness in Recommender Systems via Adversarial Training of User Representations**| Privacy |ICPRAM | [Link](https://doi.org/10.5220/0007361204760482)||
 |2018|**CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks**| Collaborative | CIKM | [Link](https://doi.org/10.1145/3269206.3271743)|[Code](https://github.com/Coder-Yu/RecQ)|
 |2018|**Adversarial Training of Deep Autoencoders Towards Recommendation Tasks**| Collaborative | IC-NIDC | [Link](https://doi.org/10.1109/ICNIDC.2018.8525831)||
-|2018|**Generative Adversarial Network Based Heterogeneous Bibliographic Net Representation for Personalized Citation Rec**| | Collaborative  | AAAI | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16310)||
+|2018|**Generative Adversarial Network Based Heterogeneous Bibliographic Net Representation for Personalized Citation Rec** | Collaborative  | AAAI | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16310)||
 |2018|**GraphGAN: Graph Representation Learning With Generative Adversarial Nets**| Collaborative | AAAI | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611)|[Code](https://github.com/hwwang55/GraphGAN)|
 |2018|**A Novel Personalized Citation Recommendation Approach Based on GAN**| Collaborative | ISMIS | [Link](https://doi.org/10.1007/978-3-030-01851-1_26)||
 |2018|**Leveraging Reconstructive Profiles of Users and Items for Tag-Aware Recommendation**| Hybrid | ICDM | [Link](https://doi.org/10.1109/ICDMW.2018.00184)||
