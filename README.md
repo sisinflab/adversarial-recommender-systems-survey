@@ -35,7 +35,10 @@ The table is complement of the survey below.
 ### ADVERSARIAL MACHINE LEARNING FOR SECURITY OF RS
 | Year        | Title           | Type       |   Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|---------------|---------|
-| 2018 | **Adversarial Personalized Ranking for Recommendation**  | Attack/Defense  |  BPR-MF | SIGIR | [Link](https://doi.org/10.1145/3209978.3209981) | [Code](https://github.com/hexiangnan/adversarial_personalized_ranking) |
+| 2020 | **Adversarial Training-Based Mean Bayesian Personalized Ranking for Recommender System** | Attack/Defense| BPR-MF | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2963316) | | 
+| 2020 | **Adversarial Learning to Compare: Self-Attentive Prospective Customer Recommendation in Location based Social Networks** | Attack/Defense | LBSN  | WSDM | [Link](https://dl.acm.org/doi/pdf/10.1145/3336191.3371841)| | 
+| 2020 | **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning** | GAN Defense | Attribute-Protection | WSDM | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371832) | | 
+| 2020 | **Adversarial Machine Learning in Recommender Systems (AML-RecSys)** | Tutorial |  | WSDM | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371877) | |
 | 2019 | **Adversarial Collaborative Auto-encoder for Top-N Recommendation** | Attack/Defense | CDAE | IJCNN | [Link](https://ieeexplore.ieee.org/document/8851902) | | 
 | 2019 | **Adversarial Collaborative Neural Network for Robust Recommendation** | Attack/Defense | CDAE | SIGIR | [Link](https://dl.acm.org/citation.cfm?id=3331321) | | 
 | 2019 | **Adversarial Training Towards Robust Multimedia Recommender System** | Attack/Defense | VBPR | TKDE | [Link](https://ieeexplore.ieee.org/document/8618394) | [Code](https://github.com/duxy-me/AMR)| 
@@ -45,10 +48,7 @@ The table is complement of the survey below.
 | 2019 | **Adversarial Sampling and Training for Semi-Supervised Information Retrieval** | Attack/Defense | MF | WWW |[Link](https://doi.org/10.1145/3308558.3313416) |  | 
 | 2019 | **Domain adaptation in display advertising: an application for partner cold-start** | Defense | Adv. Reg. Deep Rec. | RecSys | [Link](https://dl.acm.org/doi/10.1145/3298689.3347004) | | 
 | 2019 | **Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation** | Attack//Defense | MDR | SIGIR | [Paper](https://doi.org/10.1145/3331184.3331234) | [Code](https://github.com/thanhdtran/MASR)| 
-| 2020 | **Adversarial Training-Based Mean Bayesian Personalized Ranking for Recommender System** | Attack/Defense| BPR-MF | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2963316) | | 
-| 2020 | **Adversarial Learning to Compare: Self-Attentive Prospective Customer Recommendation in Location based Social Networks** | Attack/Defense | LBSN  | WSDM | [Link](https://dl.acm.org/doi/pdf/10.1145/3336191.3371841)| | 
-| 2020 | **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning** | GAN Defense | Attribute-Protection | WSDM | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371832) | | 
-| 2020 | **Adversarial Machine Learning in Recommender Systems (AML-RecSys)** | Tutorial |  | WSDM | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371877) | | 
+| 2018 | **Adversarial Personalized Ranking for Recommendation**  | Attack/Defense  |  BPR-MF | SIGIR | [Link](https://doi.org/10.1145/3209978.3209981) | [Code](https://github.com/hexiangnan/adversarial_personalized_ranking) |
 
 
 ### ADVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
