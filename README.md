@@ -54,6 +54,7 @@ The table is complement of the survey below.
 ### ADVERSARIAL LEARNING FOR GAN-BASED RECOMMENDATION
 | Year        | Title           |   Rec. Model | Venue    | Link        |  Code |
 |-------|--------|--------|-----------|---------------|-------|
+|2020|**TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**| Hybrid | DSN-DSML | [Link]()| [Code](https://anonymous.4open.science/r/e0517e40-c47f-4cb7-bb72-4f80d2a5f4b0/)|
 |2020|**LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation**| Hybrid | WSDM | [Link](https://doi.org/10.1145/3336191.3371805)||
 |2019|**Collaborative Adversarial Autoencoders: An Effective Collaborative Filtering Model Under the GAN Framework**| Collaborative | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2905876)||
 |2019|**Collaborative Generative Adversarial Network for Recommendation Systems**| Collaborative |ICDE | [Link](https://doi.org/10.1109/ICDEW.2019.00-16)||
