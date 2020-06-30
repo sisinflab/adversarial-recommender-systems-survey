@@ -7,11 +7,21 @@ The table is complement of the survey below.
 [***Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions*** ](https://arxiv.org) 
 
 ```
-@article{survey2020advrecsys,
-  title={Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions},
-  author={Yashar Deldjoo and Tommaso Di Noia and Felice Antonio Merra},
-  journal={arXiv preprint arXiv:xxxx.xxxx},
-  year={2020}
+@article{DBLP:journals/corr/abs-2005-10322,
+  author    = {Yashar Deldjoo and
+               Tommaso Di Noia and
+               Felice Antonio Merra},
+  title     = {Adversarial Machine Learning in Recommender Systems: State of the
+               art and Challenges},
+  journal   = {CoRR},
+  volume    = {abs/2005.10322},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2005.10322},
+  archivePrefix = {arXiv},
+  eprint    = {2005.10322},
+  timestamp = {Fri, 22 May 2020 16:21:28 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2005-10322.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
