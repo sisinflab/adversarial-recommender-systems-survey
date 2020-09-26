@@ -45,7 +45,8 @@ The table is complement of the survey below.
 ### ADVERSARIAL MACHINE LEARNING FOR SECURITY OF RS
 | Year        | Title           | Type       |   Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|---------------|---------|
-|2020|**TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**| Attack | VBPR/AMR | DSN-DSML | [Link]()| [Code](https://anonymous.4open.science/r/e0517e40-c47f-4cb7-bb72-4f80d2a5f4b0/)|
+|2020|**TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**| Attack | VBPR/AMR | DSN-DSML | [Link](https://ieeexplore.ieee.org/document/9151572)| [Code](https://github.com/sisinflab/TAaMR)|
+|2020|**Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start**| Attack | VBPR | Corr [Link](https://arxiv.org/abs/2006.01888)| |
 | 2020 | **Adversarial Training-Based Mean Bayesian Personalized Ranking for Recommender System** | Attack/Defense| BPR-MF | IEEE Access | [Link](https://doi.org/10.1109/ACCESS.2019.2963316) | | 
 | 2020 | **Adversarial Learning to Compare: Self-Attentive Prospective Customer Recommendation in Location based Social Networks** | Attack/Defense | LBSN  | WSDM | [Link](https://dl.acm.org/doi/pdf/10.1145/3336191.3371841)| | 
 | 2020 | **Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning** | GAN Defense | Attribute-Protection | WSDM | [Link](https://dl.acm.org/doi/abs/10.1145/3336191.3371832) | | 
