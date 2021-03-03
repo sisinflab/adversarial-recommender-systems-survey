@@ -1,4 +1,4 @@
-# Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions
+# A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks
 
 A table of adversarial learning publications in recommender systems. This page will be ****periodically**** updated to include recent works. Please contact us if your work is not in the list. Let us know if your recent work is not in the list, we will be happy to include it!
 
