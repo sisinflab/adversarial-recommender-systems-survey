@@ -45,6 +45,7 @@ The table is complement of the survey below.
 ### ADVERSARIAL MACHINE LEARNING FOR SECURITY OF RS
 | Year        | Title           | Type       |   Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|---------------|---------|
+|2020| **Revisiting Adversarially Learned Injection Attacks Against Recommender Systems**| Attack | CF | RecSys | [Link](https://arxiv.org/abs/2008.04876)| [Code](https://github.com/graytowne/revisit_adv_rec)|
 |2020|**Adversarial Learning for Recommendation: Applications for Security and Generative Tasks — Concept to Code**| Tutorial | BPR-MF | RecSys | [Link](https://dl.acm.org/doi/abs/10.1145/3383313.3411447)| [Hands-On](https://github.com/sisinflab/HandsOn-RecSys2020)|
 |2020|**TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**| Attack | VBPR/AMR | DSN-DSML | [Link](https://ieeexplore.ieee.org/document/9151572)| [Code](https://github.com/sisinflab/TAaMR)|
 |2020|**Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start**| Attack | DVBPR/VBPR/AMR | arXiv| [Link](https://arxiv.org/abs/2006.01888)| [Code](https://github.com/liuzrcc/AIP)|
