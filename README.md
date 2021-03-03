@@ -40,7 +40,7 @@ The table is complement of the survey below.
 | Year        | Title           | Type       |   Target Model     | Venue    | Link        |  Code      |
 |-------|--------|--------|--------|-----------|---------------|---------|
 |2021|**Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start**| Attack | DVBPR/VBPR/AMR | WWW| [Link](https://arxiv.org/abs/2006.01888)| [Code](https://github.com/liuzrcc/AIP)|
-|2021|**A Black-Box Attack Model for Visually-Aware Recommender Systems**| Attack | VRS | WSDM | [Link](https://arxiv.org/pdf/2011.02701.pdf)| [Code](https://github.com/vis-rs-attack/code)|
+|2021|**A Black-Box Attack Model for Visually-Aware Recommender Systems**| Attack | VBPR/DeepStyle | WSDM | [Link](https://arxiv.org/pdf/2011.02701.pdf)| [Code](https://github.com/vis-rs-attack/code)|
 |2020|**Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders**| Attack | VBPR/AMR | NeurIPS-WS | [Link](http://sisinflab.poliba.it/publications/2020/ADMM20/CR_WDCS_NeurIPS2020_Assessing_Perceptual_and_Recommendation_Mutation_of_Adversarialli_Poisoned_Visual_Recommenders.pdf)| [Code](Perceptual-Rec-Mutation-of-Adv-VRs)|
 |2020| **Revisiting Adversarially Learned Injection Attacks Against Recommender Systems**| Attack | CF | RecSys | [Link](https://arxiv.org/abs/2008.04876)| [Code](https://github.com/graytowne/revisit_adv_rec)|
 |2020|**Adversarial Learning for Recommendation: Applications for Security and Generative Tasks — Concept to Code**| Tutorial | BPR-MF | RecSys | [Link](https://dl.acm.org/doi/abs/10.1145/3383313.3411447)| [Hands-On](https://github.com/sisinflab/HandsOn-RecSys2020)|
