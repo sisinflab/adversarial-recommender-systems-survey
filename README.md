@@ -1,6 +1,6 @@
 # Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions
 
-A table of adversarial learning publications in recommender systems. This page will be ****periodically**** updated to include recent works. Please contact us if your work is not in the list.
+A table of adversarial learning publications in recommender systems. This page will be ****periodically**** updated to include recent works. Please contact us if your work is not in the list. Let us know if your recent work is not in the list, we will be happy to include it!
 
 The table is complement of the survey below.
 
