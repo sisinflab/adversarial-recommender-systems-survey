@@ -4,14 +4,12 @@ A table of adversarial learning publications in recommender systems. This page w
 
 The table is complement of the survey below.
 
-[***Adversarial Machine Learning in Recommender Systems:Literature Review and Future Visions*** ](https://arxiv.org) 
+[***A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks*** ](https://arxiv.org/abs/2005.10322) 
 
 ```
 @article{DBLP:journals/corr/abs-2005-10322,
     author = {Yashar Deldjoo and Tommaso {Di Noia} and Felice Antonio Merra},
-    title = "A survey on Adversarial Recommender Systems: from
-    Attack/Defense strategies to Generative
-    Adversarial Networks",
+    title = "A survey on Adversarial Recommender Systems: from Attack/Defense strategies to Generative Adversarial Networks",
     journal = "ACM Computing Surveys",
     year = "2021",
     keywords = "Recommender System, Adversarial Machine Learning,
